@@ -1,4 +1,10 @@
 # NASA-APOD
+NASA Astronomy Picture of the Day
+<br />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/20384695/201543716-78c87c26-e389-495e-a4e7-e4348ee877c2.png" width="231" height="500">
+  <img src="https://user-images.githubusercontent.com/20384695/201543887-c4c63ad7-3ee2-4b35-a4f6-f988cbb99110.png" width="231" height="500">
+</p>
 <br />
 
 ## Requirements
@@ -19,8 +25,8 @@ Open `NASA-APOD.xcworkspace` file on Xcode. In Xcode, select the simulator (e.g.
 - I have used `Combine` framework for this communication, it is a reactive framework, same as `RxSwift`, provided by Apple
 
 ## Note
-- Unit test is written to test the logical features of the app
-- In line documentations are provided for better understandings
+- `Unit test` is written to test the logical features of the app
+- `In line documentations` are provided for better understandings
 
 ## Third Party Vendors
 - Alamofire: For network call
